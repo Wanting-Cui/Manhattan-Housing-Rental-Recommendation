@@ -1,4 +1,4 @@
-## Project Title： Rent Smart
+## Project Title： Manhattan Housing Rental Recommendation
 
 + **Projec title**: [Rent Smart](https://corgi.shinyapps.io/rent_smart/)
 	+ Wanting Cui
